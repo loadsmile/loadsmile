@@ -1,4 +1,6 @@
-![Hello World banner](https://github.com/loadsmile/loadsmile/raw/main/path/to/helloworld.png)
+<div align="center">
+  <img src="https://github.com/loadsmile/loadsmile/raw/main/path/to/helloworld.png" alt="Hello World banner">
+</div>
 
 
 <h1 align="center">Hi, I'm Mariana!</h1>
