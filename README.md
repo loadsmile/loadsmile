@@ -1,3 +1,6 @@
+![Hello World banner](https://github.com/loadsmile/loadsmile/raw/main/path/to/helloworld.png)
+
+
 <h1 align="center">Hi, I'm Mariana!</h1>
 <h3 align="center">A junior full stack web developer from Portugal</h3>
 
