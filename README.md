@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/loadsmile/loadsmile/raw/main/path/to/helloworld.png" alt="Hello World banner">
+  <img src="https://raw.githubusercontent.com/loadsmile/loadsmile/main/images/helloworld.png" alt="Hello World banner">
 </div>
 
 
